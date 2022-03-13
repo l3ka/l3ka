@@ -11,7 +11,7 @@
 
 
 📫  **How to reach me:**
-- Email me [l3ka](lekic.d7@gmail.com)
+- Email me lekic.d7@gmail.com
 - Connect with me on [Linkedin](https://www.linkedin.com/in/darko-leki%C4%87/) 
 
 <br>
