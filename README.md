@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Darko Lekić</h1>
-<h3 align="center">Senior Student at Faculty of Electrical and Electronic Engineering 🌟</h3>
+<h1 align="center">Hi 👋, I'm Darko Lekić, a skillful Software Engineer 🌟 </h1>
 
 <br>
 
-- ⛓ I'm currently working as a Software Developer at [Mistral](https://www.mistral.ba/). 
-- ⏪ Previously worked as Software Developer at [AleaPartners](https://aleapartners.io/) and [RT-RK](https://www.rt-rk.com/)
-- 👨‍💻 I'm currently learning about software architecture in general and all kind of DevOps stuff (ie. Docker, GitHub Actions, setup automated tests, build and deploy pipeline and AWS/Heroku) 
+- ⛓ I'm currently working as a Software Engineer at [Coca-Cola HBC](https://www.coca-colahellenic.com/). 
+- ⏪ Previously worked as Software Engineer at [Mistral](https://www.mistral.ba/) and [AleaPartners](https://aleapartners.io/)
+- 👨‍💻 Learning about software architecture principles in general and all kinds of DevOps stuff (mainly focused on Azure Cloud) 
 - ⚡ Highly interested in distributed systems and machine learning 
+- 💻 Graduate Student at the Faculty of Electrical and Electronic Engineering
 
-
+<br>
 
 📫  **How to reach me:**
 - Email me lekic.d7@gmail.com
